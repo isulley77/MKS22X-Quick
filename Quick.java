@@ -33,6 +33,17 @@
  */
 
 private static int partition ( int [] data, int start, int end){
+ 
+ int pivot = data[end];
+ 
+ for(int i = start; i < end; i++){
+    if(data[i] <= pivot){
+    }
+ }
+     
+ 
+ 
+ 
 
 
 }
